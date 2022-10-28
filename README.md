@@ -7,7 +7,7 @@
   <b>Discipline | <b> Electrical Engineering 
 :--|:--|
 <b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
-<b> Experiment|     <b> **Verification of Superposition Theorem and Experiment 4**
+<b> Experiment|     <b> **Verification of Superposition Theorem and section A Experiment 4**
 
 
 <b>Name of Developer | <b> **Prof. Alok Kanti Deb**
